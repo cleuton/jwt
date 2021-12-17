@@ -1,6 +1,16 @@
 # Entendendo o padrão de segurança JWT
 ## E seu uso em Python
 
+
+
+[![](images/logo_preto_fundo_branco.png)](http://desenvolvedor.guru)
+
+[**Desenvolvedor Guru**](http://desenvolvedor.guru)
+
+[![](images/logo.png)](http://pythondrops.com)
+
+[**PythonDrops**](http://pythondrops.com)
+
 **Cleuton Sampaio, M.Sc.**
 
 # Descrição
