@@ -1,0 +1,2424 @@
+<?xml version="1.0"?>
+<root ptr="0x55d3301eb4b0" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55d332d88a80" id="0"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="254" nContent="267"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="170936" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="170936"/>
+ </infos>
+ <page ptr="0x55d3301ed900" id="1" symbol="11SwPageFrame" next="29" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d3301edb70" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="8181" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d3301edd50" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1418" width="9638" height="1528" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9638" height="1288"/>
+    </infos>
+Entendendo o padrão de segurança JWT    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="58"/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="644" nWidth="9522" Portion="Entendendo o padr&#xE3;o de seguran&#xE7;a"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="59"/>
+    <LineBreak nWidth="9639" Line="Entendendo o padr&#xE3;o de seguran&#xE7;a "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4228"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="644" nWidth="1182" Portion="JWT"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4229"/>
+    <LineBreak nWidth="9639" Line="JWT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3363dc4c0" id="4" symbol="11SwTextFrame" next="6" prev="3" upper="2" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2946" width="9638" height="594" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="180" width="9638" height="414"/>
+    </infos>
+E seu uso em Python    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3108"/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="414" nWidth="3422" Portion="E seu uso em Python"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3109"/>
+    <LineBreak nWidth="9639" Line="E seu uso em Python"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fd1ded0" id="6" symbol="11SwTextFrame" next="5" prev="4" upper="2" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3540" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fe6a560" id="5" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3936" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Cleuton Sampaio, M.Sc.    <Text nLength="22" nType="PortionType::Para" nHeight="276" nWidth="2353" Portion="Cleuton Sampaio, M.Sc."/>
+    <LineBreak nWidth="2353" Line="Cleuton Sampaio, M.Sc."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fe718b0" id="8" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4393" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fe71cd0" id="7" symbol="11SwTextFrame" next="11" prev="8" upper="2" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4850" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="421" width="9638" height="419"/>
+    </infos>
+Descrição    <Text nLength="9" nType="PortionType::Para" nHeight="419" nWidth="1741" Portion="Descri&#xE7;&#xE3;o"/>
+    <LineBreak nWidth="1741" Line="Descri&#xE7;&#xE3;o"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d333bb9fd0" id="11" symbol="11SwTextFrame" next="10" prev="7" upper="2" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="5690" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d330158930" id="10" symbol="11SwTextFrame" next="12" prev="11" upper="2" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6086" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Toda aplicação web que retorna recursos dinâmicos deveria se proteger contra acessos anônimos. Há dois motivos para isto:     <Text nLength="95" nType="PortionType::Para" nHeight="276" nWidth="9392" Portion="Toda aplica&#xE7;&#xE3;o web que retorna recursos din&#xE2;micos deveria se proteger contra acessos an&#xF4;nimos. "/>
+    <LineBreak nWidth="9392" Line="Toda aplica&#xE7;&#xE3;o web que retorna recursos din&#xE2;micos deveria se proteger contra acessos an&#xF4;nimos. "/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="276" nWidth="2580" Portion="H&#xE1; dois motivos para isto: "/>
+    <LineBreak nWidth="2580" Line="H&#xE1; dois motivos para isto: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3340b3ed0" id="12" symbol="11SwTextFrame" next="13" prev="10" upper="2" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6860" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Evitar roubo de informação (web scrapping);    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d3374fb000" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="43" nType="PortionType::Text" nHeight="276" nWidth="4325" Portion="Evitar roubo de informa&#xE7;&#xE3;o (web scrapping);"/>
+    <LineBreak nWidth="4685" Line="&#x2022;Evitar roubo de informa&#xE7;&#xE3;o (web scrapping);"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d332e34a20" id="13" symbol="11SwTextFrame" next="15" prev="12" upper="2" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7317" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Evitar divulgação de informação corporativa;    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d33781dc30" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="44" nType="PortionType::Text" nHeight="276" nWidth="4358" Portion="Evitar divulga&#xE7;&#xE3;o de informa&#xE7;&#xE3;o corporativa;"/>
+    <LineBreak nWidth="4718" Line="&#x2022;Evitar divulga&#xE7;&#xE3;o de informa&#xE7;&#xE3;o corporativa;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3340b42a0" id="15" symbol="11SwTextFrame" next="18" prev="13" upper="2" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7774" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Podemos proteger uma aplicação simplesmente adicionando um CAPTCHA (como o Google reCaptcha: https://www.google.com/recaptcha/about/)? Sim. Isso protege contra o roubo automático por scripts, mas não contra o acesso indevido manual, com uma pessoa navegando.    <Text nLength="59" nType="PortionType::Text" nHeight="276" nWidth="6218" Portion="Podemos proteger uma aplica&#xE7;&#xE3;o simplesmente adicionando um "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="1187" Portion="CAPTCHA"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="276" nWidth="1680" Portion=" (como o Google "/>
+    <LineBreak nWidth="9085" Line="Podemos proteger uma aplica&#xE7;&#xE3;o simplesmente adicionando um CAPTCHA (como o Google "/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="276" nWidth="1099" Portion="reCaptcha: "/>
+    <Text nLength="39" nType="PortionType::Text" nHeight="276" nWidth="4010" Portion="https://www.google.com/recaptcha/about/"/>
+    <Text nLength="46" nType="PortionType::Text" nHeight="276" nWidth="4506" Portion=")? Sim. Isso protege contra o roubo autom&#xE1;tico"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9615" Line="reCaptcha: https://www.google.com/recaptcha/about/)? Sim. Isso protege contra o roubo autom&#xE1;tico "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="276" nWidth="7977" Portion="por scripts, mas n&#xE3;o contra o acesso indevido manual, com uma pessoa navegando."/>
+    <LineBreak nWidth="7977" Line="por scripts, mas n&#xE3;o contra o acesso indevido manual, com uma pessoa navegando."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368d1020" id="18" symbol="11SwTextFrame" next="21" prev="15" upper="2" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="8865" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+É preciso acabar com o acesso anônimo, protegendo rotas web que retornem recursos dinâmicos. Isso não só protege seus dados, como evita sobrecarregar seus servidores (de aplicação, de banco de  dados etc) com acessos ilegítimos, o que é um tipo de ataque DOS (Denial of Service).     <Text nLength="93" nType="PortionType::Para" nHeight="276" nWidth="9370" Portion="&#xC9; preciso acabar com o acesso an&#xF4;nimo, protegendo rotas web que retornem recursos din&#xE2;micos. "/>
+    <LineBreak nWidth="9370" Line="&#xC9; preciso acabar com o acesso an&#xF4;nimo, protegendo rotas web que retornem recursos din&#xE2;micos. "/>
+    <Text nLength="99" nType="PortionType::Text" nHeight="276" nWidth="9602" Portion="Isso n&#xE3;o s&#xF3; protege seus dados, como evita sobrecarregar seus servidores (de aplica&#xE7;&#xE3;o, de banco de"/>
+    <Text nLength="2" nType="PortionType::Hole" Portion="  "/>
+    <LineBreak nWidth="9602" Line="Isso n&#xE3;o s&#xF3; protege seus dados, como evita sobrecarregar seus servidores (de aplica&#xE7;&#xE3;o, de banco de  "/>
+    <Text nLength="86" nType="PortionType::Lay" nHeight="276" nWidth="8397" Portion="dados etc) com acessos ileg&#xED;timos, o que &#xE9; um tipo de ataque DOS (Denial of Service). "/>
+    <LineBreak nWidth="8397" Line="dados etc) com acessos ileg&#xED;timos, o que &#xE9; um tipo de ataque DOS (Denial of Service). "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33007ebf0" id="21" symbol="11SwTextFrame" next="22" prev="18" upper="2" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9956" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Existem vários esquemas de autenticação de usuário. Antigamente, quando utilizávamos o conceito de SESSÃO WEB, o cliente recebia um “cookie” identificador de sessão e tinha que sempre acessar o mesmo servidor.     <Text nLength="96" nType="PortionType::Para" nHeight="276" nWidth="9596" Portion="Existem v&#xE1;rios esquemas de autentica&#xE7;&#xE3;o de usu&#xE1;rio. Antigamente, quando utiliz&#xE1;vamos o conceito "/>
+    <LineBreak nWidth="9596" Line="Existem v&#xE1;rios esquemas de autentica&#xE7;&#xE3;o de usu&#xE1;rio. Antigamente, quando utiliz&#xE1;vamos o conceito "/>
+    <Text nLength="95" nType="PortionType::Text" nHeight="276" nWidth="9605" Portion="de SESS&#xC3;O WEB, o cliente recebia um &#x201C;cookie&#x201D; identificador de sess&#xE3;o e tinha que sempre acessar"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9605" Line="de SESS&#xC3;O WEB, o cliente recebia um &#x201C;cookie&#x201D; identificador de sess&#xE3;o e tinha que sempre acessar "/>
+    <Text nLength="18" nType="PortionType::Lay" nHeight="276" nWidth="1826" Portion="o mesmo servidor. "/>
+    <LineBreak nWidth="1826" Line="o mesmo servidor. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336523420" id="22" symbol="11SwTextFrame" next="24" prev="21" upper="2" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11047" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Hoje, com o conceito de recursos REST, que são Stateless por natureza, este esquema não funciona mais, embora seja possível guardar o estado em um banco de dados no backend.     <Text nLength="33" nType="PortionType::Text" nHeight="276" nWidth="3259" Portion="Hoje, com o conceito de recursos "/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="627" Portion="REST"/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="276" nWidth="906" Portion=", que s&#xE3;o "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="853" Portion="Stateless"/>
+    <Text nLength="40" nType="PortionType::Text" nHeight="276" nWidth="3951" Portion=" por natureza, este esquema n&#xE3;o funciona"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9596" Line="Hoje, com o conceito de recursos REST, que s&#xE3;o Stateless por natureza, este esquema n&#xE3;o funciona "/>
+    <Text nLength="68" nType="PortionType::Text" nHeight="276" nWidth="6838" Portion="mais, embora seja poss&#xED;vel guardar o estado em um banco de dados no "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="120" Portion=". "/>
+    <LineBreak nWidth="7785" Line="mais, embora seja poss&#xED;vel guardar o estado em um banco de dados no backend. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdae000" id="24" symbol="11SwTextFrame" next="23" prev="22" upper="2" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11821" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fcd7e00" id="23" symbol="11SwTextFrame" next="25" prev="24" upper="2" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="12278" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Cookies não são uma forma muito segura de guardar identificações de estado, portanto, um novo esquema de autenticação é necessário.    <Text nLength="94" nType="PortionType::Para" nHeight="276" nWidth="9364" Portion="Cookies n&#xE3;o s&#xE3;o uma forma muito segura de guardar identifica&#xE7;&#xF5;es de estado, portanto, um novo "/>
+    <LineBreak nWidth="9364" Line="Cookies n&#xE3;o s&#xE3;o uma forma muito segura de guardar identifica&#xE7;&#xF5;es de estado, portanto, um novo "/>
+    <Text nLength="37" nType="PortionType::Lay" nHeight="276" nWidth="3671" Portion="esquema de autentica&#xE7;&#xE3;o &#xE9; necess&#xE1;rio."/>
+    <LineBreak nWidth="3671" Line="esquema de autentica&#xE7;&#xE3;o &#xE9; necess&#xE1;rio."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdbf340" id="25" symbol="11SwTextFrame" next="28" prev="23" upper="2" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="13052" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="421" width="9638" height="419"/>
+    </infos>
+JASON Web Token    <Text nLength="15" nType="PortionType::Para" nHeight="419" nWidth="3263" Portion="JASON Web Token"/>
+    <LineBreak nWidth="3263" Line="JASON Web Token"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368152d0" id="28" symbol="11SwTextFrame" next="27" prev="25" upper="2" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="13892" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33641d220" id="27" symbol="11SwTextFrame" next="36" prev="28" upper="2" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="14288" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Sempre que criamos um esquema particular de autenticação, ficamos sujeitos a incompatibilidades. O JWT (JASON Web Token) é um mecanismo para transitar informações entre frontend e backend de maneira padronizada.     <Text nLength="97" nType="PortionType::Para" nHeight="276" nWidth="9596" Portion="Sempre que criamos um esquema particular de autentica&#xE7;&#xE3;o, ficamos sujeitos a incompatibilidades. "/>
+    <LineBreak nWidth="9596" Line="Sempre que criamos um esquema particular de autentica&#xE7;&#xE3;o, ficamos sujeitos a incompatibilidades. "/>
+    <Text nLength="72" nType="PortionType::Text" nHeight="276" nWidth="7655" Portion="O JWT (JASON Web Token) &#xE9; um mecanismo para transitar informa&#xE7;&#xF5;es entre "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="276" nWidth="227" Portion=" e "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="60" Portion=" "/>
+    <LineBreak nWidth="9623" Line="O JWT (JASON Web Token) &#xE9; um mecanismo para transitar informa&#xE7;&#xF5;es entre frontend e backend "/>
+    <Text nLength="24" nType="PortionType::Lay" nHeight="276" nWidth="2412" Portion="de maneira padronizada. "/>
+    <LineBreak nWidth="2412" Line="de maneira padronizada. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdb56a0" id="36" symbol="11SwTextFrame" prev="27" upper="2" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="15379" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d3369f95a0" id="29" symbol="11SwPageFrame" next="63" prev="1" upper="0" lower="30">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d3364d4110" id="30" symbol="11SwBodyFrame" upper="29" lower="35">
+   <infos>
+    <bounds left="8181" top="18540" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d3365df9e0" id="35" symbol="11SwTextFrame" next="37" upper="30" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18540" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+Um token JWT é um conjunto de afirmações (“claims”)  sobre um usuário remoto, por exemplo:     <Text nLength="91" nType="PortionType::Para" nHeight="276" nWidth="9333" Portion="Um token JWT &#xE9; um conjunto de afirma&#xE7;&#xF5;es (&#x201C;claims&#x201D;)  sobre um usu&#xE1;rio remoto, por exemplo: "/>
+    <LineBreak nWidth="9333" Line="Um token JWT &#xE9; um conjunto de afirma&#xE7;&#xF5;es (&#x201C;claims&#x201D;)  sobre um usu&#xE1;rio remoto, por exemplo: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fd09ed0" id="37" symbol="11SwTextFrame" next="38" prev="35" upper="30" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18816" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+{    <Text nLength="1" nType="PortionType::Para" nHeight="240" nWidth="144" Portion="{"/>
+    <LineBreak nWidth="144" Line="{"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33642a6b0" id="38" symbol="11SwTextFrame" next="39" prev="37" upper="30" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="19237" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;fresh&quot;: false,    <Text nLength="17" nType="PortionType::Para" nHeight="240" nWidth="2448" Portion="  &quot;fresh&quot;: false,"/>
+    <LineBreak nWidth="2448" Line="  &quot;fresh&quot;: false,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33683d6e0" id="39" symbol="11SwTextFrame" next="40" prev="38" upper="30" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="19503" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;iat&quot;: 1639743783,    <Text nLength="20" nType="PortionType::Para" nHeight="240" nWidth="2880" Portion="  &quot;iat&quot;: 1639743783,"/>
+    <LineBreak nWidth="2880" Line="  &quot;iat&quot;: 1639743783,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336a2c7c0" id="40" symbol="11SwTextFrame" next="41" prev="39" upper="30" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="19769" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;jti&quot;: &quot;72ad917e-e4f0-4efc-b797-9656e92b215c&quot;,    <Text nLength="48" nType="PortionType::Para" nHeight="240" nWidth="6912" Portion="  &quot;jti&quot;: &quot;72ad917e-e4f0-4efc-b797-9656e92b215c&quot;,"/>
+    <LineBreak nWidth="6912" Line="  &quot;jti&quot;: &quot;72ad917e-e4f0-4efc-b797-9656e92b215c&quot;,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368506d0" id="41" symbol="11SwTextFrame" next="42" prev="40" upper="30" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="20035" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;type&quot;: &quot;access&quot;,    <Text nLength="19" nType="PortionType::Para" nHeight="240" nWidth="2736" Portion="  &quot;type&quot;: &quot;access&quot;,"/>
+    <LineBreak nWidth="2736" Line="  &quot;type&quot;: &quot;access&quot;,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32f8c6240" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="30" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="20301" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;sub&quot;: &quot;test&quot;,    <Text nLength="3" nType="PortionType::Text" nHeight="240" nWidth="432" Portion="  &quot;"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="240" nWidth="432" Portion="sub"/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="240" nWidth="576" Portion="&quot;: &quot;"/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="240" nWidth="576" Portion="test"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="240" nWidth="288" Portion="&quot;,"/>
+    <LineBreak nWidth="2304" Line="  &quot;sub&quot;: &quot;test&quot;,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33683d950" id="43" symbol="11SwTextFrame" next="44" prev="42" upper="30" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="20567" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;nbf&quot;: 1639743783,    <Text nLength="20" nType="PortionType::Para" nHeight="240" nWidth="2880" Portion="  &quot;nbf&quot;: 1639743783,"/>
+    <LineBreak nWidth="2880" Line="  &quot;nbf&quot;: 1639743783,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336453020" id="44" symbol="11SwTextFrame" next="45" prev="43" upper="30" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="20833" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+  &quot;exp&quot;: 1639744683    <Text nLength="3" nType="PortionType::Text" nHeight="240" nWidth="432" Portion="  &quot;"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="240" nWidth="432" Portion="exp"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="240" nWidth="432" Portion="&quot;: "/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="240" nWidth="1440" Portion="1639744683"/>
+    <LineBreak nWidth="2736" Line="  &quot;exp&quot;: 1639744683"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368af410" id="45" symbol="11SwTextFrame" next="47" prev="44" upper="30" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="21099" width="9638" height="266" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="240"/>
+    </infos>
+}    <Text nLength="1" nType="PortionType::Para" nHeight="240" nWidth="144" Portion="}"/>
+    <LineBreak nWidth="144" Line="}"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3300d1a00" id="47" symbol="11SwTextFrame" next="46" prev="45" upper="30" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="21365" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="26" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33642c470" id="46" symbol="11SwTextFrame" next="31" prev="47" upper="30" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="21667" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Neste token temos alguns claims interessantes:     <Text nLength="25" nType="PortionType::Text" nHeight="276" nWidth="2519" Portion="Neste token temos alguns "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="640" Portion="claims"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="276" nWidth="1413" Portion=" interessantes: "/>
+    <LineBreak nWidth="4572" Line="Neste token temos alguns claims interessantes: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdca380" id="31" symbol="11SwTextFrame" next="48" prev="46" upper="30" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="22124" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+sub: Subject ou o usuário que está enviando o token;    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d337806000" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="52" nType="PortionType::Text" nHeight="276" nWidth="5045" Portion="sub: Subject ou o usu&#xE1;rio que est&#xE1; enviando o token;"/>
+    <LineBreak nWidth="5405" Line="&#x2022;sub: Subject ou o usu&#xE1;rio que est&#xE1; enviando o token;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368f1780" id="48" symbol="11SwTextFrame" next="49" prev="31" upper="30" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="22581" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+exp: Expiration ou intervalo de tempo em que o token deixará de ser válido;    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d33740fc00" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="276" nWidth="7298" Portion="exp: Expiration ou intervalo de tempo em que o token deixar&#xE1; de ser v&#xE1;lido;"/>
+    <LineBreak nWidth="7658" Line="&#x2022;exp: Expiration ou intervalo de tempo em que o token deixar&#xE1; de ser v&#xE1;lido;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368c50c0" id="49" symbol="11SwTextFrame" next="19" prev="48" upper="30" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="23038" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336a07da0" id="19" symbol="11SwTextFrame" next="34" prev="49" upper="30" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="23495" width="9638" height="645" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="321" width="9638" height="324"/>
+    </infos>
+JWT e Sessões    <Text nLength="13" nType="PortionType::Para" nHeight="324" nWidth="2054" Portion="JWT e Sess&#xF5;es"/>
+    <LineBreak nWidth="2054" Line="JWT e Sess&#xF5;es"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33654e870" id="34" symbol="11SwTextFrame" next="33" prev="19" upper="30" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="24140" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33683b6d0" id="33" symbol="11SwTextFrame" next="53" prev="34" upper="30" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="24536" width="9638" height="1408" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="1227"/>
+    </infos>
+Alguns utilizam tokens JWT para enviar estado de sessão mantido no frontend para o backend. Para isso, utilizam claims particulares, fora do esquema padrão do JWT. Eu não considero uma boa prática, pois manter estado no frontend é inseguro e trafegar grandes quantidades de bytes por JWT é ruim.     <Text nLength="67" nType="PortionType::Text" nHeight="276" nWidth="6720" Portion="Alguns utilizam tokens JWT para enviar estado de sess&#xE3;o mantido no "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="713" Portion=" para o "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="120" Portion=". "/>
+    <LineBreak nWidth="9234" Line="Alguns utilizam tokens JWT para enviar estado de sess&#xE3;o mantido no frontend para o backend. "/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="276" nWidth="1826" Portion="Para isso, utilizam "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="640" Portion="claims"/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="276" nWidth="7133" Portion=" particulares, fora do esquema padr&#xE3;o do JWT. Eu n&#xE3;o considero uma boa "/>
+    <LineBreak nWidth="9599" Line="Para isso, utilizam claims particulares, fora do esquema padr&#xE3;o do JWT. Eu n&#xE3;o considero uma boa "/>
+    <Text nLength="31" nType="PortionType::Text" nHeight="276" nWidth="2932" Portion="pr&#xE1;tica, pois manter estado no "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="59" nType="PortionType::Text" nHeight="276" nWidth="5798" Portion=" &#xE9; inseguro e trafegar grandes quantidades de bytes por JWT"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9584" Line="pr&#xE1;tica, pois manter estado no frontend &#xE9; inseguro e trafegar grandes quantidades de bytes por JWT "/>
+    <Text nLength="8" nType="PortionType::Lay" nHeight="276" nWidth="740" Portion="&#xE9; ruim. "/>
+    <LineBreak nWidth="740" Line="&#xE9; ruim. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b65140" id="53" symbol="11SwTextFrame" next="52" prev="33" upper="30" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="25944" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368c5ed0" id="52" symbol="11SwTextFrame" next="56" prev="53" upper="30" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26401" width="9638" height="645" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="321" width="9638" height="324"/>
+    </infos>
+Autenticação web    <Text nLength="16" nType="PortionType::Para" nHeight="324" nWidth="2398" Portion="Autentica&#xE7;&#xE3;o web"/>
+    <LineBreak nWidth="2398" Line="Autentica&#xE7;&#xE3;o web"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368502e0" id="56" symbol="11SwTextFrame" next="55" prev="52" upper="30" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27046" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3301bfad0" id="55" symbol="11SwTextFrame" next="57" prev="56" upper="30" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27442" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+O padrão é utilizar tokens JWT para identificar um usuário autenticado. Você pode ter várias rotas REST em seu backend, sendo que algumas exigem que o usuário esteja autenticado. Neste caso ele pode enviar um token JWT para provar isso.     <Text nLength="93" nType="PortionType::Text" nHeight="276" nWidth="8943" Portion="O padr&#xE3;o &#xE9; utilizar tokens JWT para identificar um usu&#xE1;rio autenticado. Voc&#xEA; pode ter v&#xE1;rias "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="576" Portion="rotas "/>
+    <LineBreak nWidth="9519" Line="O padr&#xE3;o &#xE9; utilizar tokens JWT para identificar um usu&#xE1;rio autenticado. Voc&#xEA; pode ter v&#xE1;rias rotas "/>
+    <Text nLength="5" nType="PortionType::Text" nHeight="276" nWidth="683" Portion="REST "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="733" Portion="em seu "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="76" nType="PortionType::Text" nHeight="276" nWidth="7390" Portion=", sendo que algumas exigem que o usu&#xE1;rio esteja autenticado. Neste caso ele "/>
+    <LineBreak nWidth="9633" Line="REST em seu backend, sendo que algumas exigem que o usu&#xE1;rio esteja autenticado. Neste caso ele "/>
+    <Text nLength="43" nType="PortionType::Lay" nHeight="276" nWidth="4321" Portion="pode enviar um token JWT para provar isso. "/>
+    <LineBreak nWidth="4321" Line="pode enviar um token JWT para provar isso. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3368ec0e0" id="57" symbol="11SwTextFrame" next="59" prev="55" upper="30" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28533" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Cabe ao backend validar o token JWT antes de retornar os recursos para o frontend.    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="840" Portion="Cabe ao "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="58" nType="PortionType::Text" nHeight="276" nWidth="5527" Portion=" validar o token JWT antes de retornar os recursos para o "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="276" nWidth="60" Portion="."/>
+    <LineBreak nWidth="8108" Line="Cabe ao backend validar o token JWT antes de retornar os recursos para o frontend."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336452670" id="59" symbol="11SwTextFrame" next="60" prev="57" upper="30" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28990" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Há várias maneiras para o frontend enviar um token JWT para o backend:     <Text nLength="26" nType="PortionType::Text" nHeight="276" nWidth="2552" Portion="H&#xE1; v&#xE1;rias maneiras para o "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="28" nType="PortionType::Text" nHeight="276" nWidth="2855" Portion=" enviar um token JWT para o "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="127" Portion=": "/>
+    <LineBreak nWidth="7215" Line="H&#xE1; v&#xE1;rias maneiras para o frontend enviar um token JWT para o backend: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3367c2320" id="60" symbol="11SwTextFrame" next="61" prev="59" upper="30" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29447" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="593"/>
+    </infos>
+Em um cookie: Tem a vantagem de ser automático e diminui o trabalho para o frontend, mas  há o risco de Cross Site Request Forgery (CSRF);    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d336ed2c90" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="760" Portion="Em um "/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="653" Portion="cookie"/>
+    <Text nLength="63" nType="PortionType::Text" nHeight="276" nWidth="6170" Portion=": Tem a vantagem de ser autom&#xE1;tico e diminui o trabalho para o "/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="854" Portion="frontend"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="120" Portion=", "/>
+    <LineBreak nWidth="8917" Line="&#x2022;Em um cookie: Tem a vantagem de ser autom&#xE1;tico e diminui o trabalho para o frontend, "/>
+    <Text nLength="47" nType="PortionType::Text" nHeight="276" nWidth="4555" Portion="mas  h&#xE1; o risco de Cross Site Request Forgery ("/>
+    <Text nLength="4" nType="PortionType::Text" nHeight="276" nWidth="627" Portion="CSRF"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="276" nWidth="147" Portion=");"/>
+    <LineBreak nWidth="5329" Line="mas  h&#xE1; o risco de Cross Site Request Forgery (CSRF);"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33642c110" id="61" symbol="11SwTextFrame" next="62" prev="60" upper="30" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30221" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="593"/>
+    </infos>
+Em um header HTTP: Uma das melhores opções, pois existe o header Authorization que é exatamente para isto;     <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d3376bbce0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="276" nWidth="760" Portion="Em um "/>
+    <Text nLength="10" nType="PortionType::Text" nHeight="276" nWidth="1269" Portion="header HTT"/>
+    <Text nLength="49" nType="PortionType::Text" nHeight="276" nWidth="4852" Portion="P: Uma das melhores op&#xE7;&#xF5;es, pois existe o header "/>
+    <Text nLength="13" nType="PortionType::Text" nHeight="276" nWidth="1374" Portion="Authorization"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="633" Portion=" que &#xE9; "/>
+    <LineBreak nWidth="9248" Line="&#x2022;Em um header HTTP: Uma das melhores op&#xE7;&#xF5;es, pois existe o header Authorization que &#xE9; "/>
+    <Text nLength="22" nType="PortionType::Lay" nHeight="276" nWidth="2099" Portion="exatamente para isto; "/>
+    <LineBreak nWidth="2099" Line="exatamente para isto; "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b6d6f0" id="62" symbol="11SwTextFrame" next="66" prev="61" upper="30" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30995" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="593"/>
+    </infos>
+No corpo do request: Além de complicar o processamento do request, também está sujeito a certos tipos de ataque;    <Special nLength="0" nType="PortionType::Bullet" rText="&#x2022;" nHeight="240">
+     <SwFont ptr="0x55d333fef3d0" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="218" nWidth="274"/>
+    <Text nLength="12" nType="PortionType::Text" nHeight="276" nWidth="1260" Portion="No corpo do "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="756" Portion="request"/>
+    <Text nLength="39" nType="PortionType::Text" nHeight="276" nWidth="3979" Portion=": Al&#xE9;m de complicar o processamento do "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="720" Portion="request"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="276" nWidth="2192" Portion=", tamb&#xE9;m est&#xE1; sujeito a"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9267" Line="&#x2022;No corpo do request: Al&#xE9;m de complicar o processamento do request, tamb&#xE9;m est&#xE1; sujeito a "/>
+    <Text nLength="23" nType="PortionType::Lay" nHeight="276" nWidth="2139" Portion="certos tipos de ataque;"/>
+    <LineBreak nWidth="2139" Line="certos tipos de ataque;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336bbfd10" id="66" symbol="11SwTextFrame" next="65" prev="62" upper="30" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31769" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b8dbb0" id="65" symbol="11SwTextFrame" prev="66" upper="30" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32226" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+O fluxo de autenticação seria algo assim:     <Text nLength="42" nType="PortionType::Para" nHeight="276" nWidth="4005" Portion="O fluxo de autentica&#xE7;&#xE3;o seria algo assim: "/>
+    <LineBreak nWidth="4005" Line="O fluxo de autentica&#xE7;&#xE3;o seria algo assim: "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d336b84160" id="63" symbol="11SwPageFrame" next="99" prev="29" upper="0" lower="64">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d336b9b610" id="64" symbol="11SwBodyFrame" upper="63" lower="67">
+   <infos>
+    <bounds left="8181" top="35662" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d336413dc0" id="67" symbol="11SwTextFrame" next="68" upper="64" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35662" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="0" width="9278" height="276"/>
+    </infos>
+Frontend: Tenta acessar uma rota protegida;    <Special nLength="0" nType="PortionType::Number" rText="1." nHeight="240">
+     <SwFont ptr="0x55d33724aa10" color="ffffffff"/>
+    </Special>
+    <Text nLength="0" nType="PortionType::TabLeft" nHeight="276" nWidth="180"/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="276" nWidth="956" Portion="Frontend"/>
+    <Text nLength="35" nType="PortionType::Text" nHeight="276" nWidth="3344" Portion=": Tenta acessar uma rota protegida;"/>
+    <LineBreak nWidth="4660" Line="1.Frontend: Tenta acessar uma rota protegida;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336c4bca0" id="68" symbol="11SwTextFrame" next="69" prev="67" upper="64" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35938" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Backend: Retorna HTTP Status 401;    <Finish/>
+   </txt>
+   <txt ptr="0x7f25b00030d0" id="69" symbol="11SwTextFrame" next="70" prev="68" upper="64" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="36395" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Frontend: Acessa uma rota de login, enviando credenciais;    <Finish/>
+   </txt>
+   <txt ptr="0x55d3364b4840" id="70" symbol="11SwTextFrame" next="71" prev="69" upper="64" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="36852" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Backend: Se tudo estiver correto, retorna um token JWT no corpo da mensagem;    <Finish/>
+   </txt>
+   <txt ptr="0x55d336682720" id="71" symbol="11SwTextFrame" next="72" prev="70" upper="64" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37309" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="593"/>
+    </infos>
+Frontend: Acessa uma rota protegida, passando o header “Authorization: Bearer &lt;token recebido&gt;”;    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b69870" id="72" symbol="11SwTextFrame" next="75" prev="71" upper="64" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="38083" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="593"/>
+    </infos>
+Backend: Valida o token (vê se a assinatura está ok e se não expirou) e retorna o recurso protegido. Caso haja erro no token, pode retornar erro.    <Finish/>
+   </txt>
+   <txt ptr="0x55d336aaabc0" id="75" symbol="11SwTextFrame" next="74" prev="72" upper="64" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="38857" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3365847c0" id="74" symbol="11SwTextFrame" next="54" prev="75" upper="64" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39314" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Há muitas variações, inclusive em esquemas de Single Sign-On e autenticação federada, mas este fluxo muda pouca coisa.     <Finish/>
+   </txt>
+   <txt ptr="0x55d3338d90d0" id="54" symbol="11SwTextFrame" next="32" prev="74" upper="64" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40088" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33683f2b0" id="32" symbol="11SwTextFrame" next="76" prev="54" upper="64" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40545" width="9638" height="752" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="381" width="9638" height="371"/>
+    </infos>
+Componentes do token JWT    <Finish/>
+   </txt>
+   <txt ptr="0x55d33691f500" id="76" symbol="11SwTextFrame" next="16" prev="32" upper="64" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41297" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdd6c00" id="16" symbol="11SwTextFrame" next="79" prev="76" upper="64" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41693" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Um token JWT é algo assim:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336b39950" id="79" symbol="11SwTextFrame" next="78" prev="16" upper="64" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42150" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdf3b30" id="78" symbol="11SwTextFrame" next="81" prev="79" upper="64" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42607" width="9638" height="2853" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="2672"/>
+    </infos>
+eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc0NjMyMywianRpIjoiYjhkNjFlYjAtZjgzOS00ZWE3LTgyYjQtOTM3ZGU0OWNiNDUwIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NDYzMjMsImV4cCI6MTYzOTc0NjM4M30.Zvl05bDObZgOTxKh7pYxqxb4_lMO4J_f7PZYXlctkmueknZL21MDcTtZ_5cwekUUmLUbhm26mZRaYyZw5vEFhIS6b75spz4LA4kYA4eJZv0LU2f5eqLKJ7m8qptQuRtC3Ue-RZSH8Ux0BIlJjfruelUDb-am2dF3Q06pRVK3lzO9hIFu1_KsQ8VkvMRvbHhyu2HqZvCxG3BReRr0MOnTmgD7Aq0XicM-utB7SXwPYnnwJR8rSDrxhD6bKHu-i_wygn_0PCzR1-3NyMM3GRaByKsJpWS69wKzuRY5S83zKAD-D063uBIFU9OF4XdKy2iKitR4Kw_g495nat3MkhhISFhdGQSR8AUihyEdEQ-t88Tc27v0z9I7y6shmnhnYHgF_Ig9knsCpeUh-DfVQnOlQfusfcnQTxvx81KhJoCnTHN2KdGB67kZOnetoa72QLr-3lUXcoNm2wHVyaSjd0Jg0bWw3cHd0OHIXAHeT9iZFVwz2_Nvp6eRwSP4763zDwRH    <Finish/>
+   </txt>
+   <txt ptr="0x55d336553560" id="81" symbol="11SwTextFrame" next="80" prev="78" upper="64" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45460" width="9638" height="446" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32ff3d4b0" id="80" symbol="11SwTextFrame" next="98" prev="81" upper="64" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45906" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Há 3 partes separadas por pontos: Header, Payload e Assinatura digital. Se quiser conferir o token, pode ir no site http://jwt.io:    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e89a80" id="98" symbol="11SwTextFrame" prev="80" upper="64" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46680" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d333bf9f00" id="99" symbol="11SwPageFrame" next="127" prev="63" upper="0" lower="100">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d336cc7cf0" id="100" symbol="11SwBodyFrame" upper="99" lower="95">
+   <infos>
+    <bounds left="8181" top="52784" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d336e5b700" id="95" symbol="11SwTextFrame" next="101" upper="100" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="52784" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337339000" id="101" symbol="11SwTextFrame" next="88" prev="95" upper="100" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53060" width="9638" height="4349" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="4168"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x55d336c4e190" id="91" symbol="19SwFlyAtContentFrame" lower="92">
+      <infos>
+       <bounds left="10761" top="53112" width="4995" height="3980" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="29" top="29" width="4937" height="3922"/>
+      </infos>
+      <notxt ptr="0x55d32fb971a0" id="92" symbol="13SwNoTextFrame" upper="91">
+       <infos>
+        <bounds left="10790" top="53141" width="4937" height="3922" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="4937" height="3922"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336db81b0" id="88" symbol="11SwTextFrame" next="103" prev="101" upper="100" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="57409" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Podemos ver que este JWT contém um header:     <Finish/>
+   </txt>
+   <txt ptr="0x55d33747f7a0" id="103" symbol="11SwTextFrame" next="104" prev="88" upper="100" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="57866" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+{    <Finish/>
+   </txt>
+   <txt ptr="0x55d336df78b0" id="104" symbol="11SwTextFrame" next="105" prev="103" upper="100" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="58287" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;typ&quot;: &quot;JWT&quot;,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d801b0" id="105" symbol="11SwTextFrame" next="106" prev="104" upper="100" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="58589" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;alg&quot;: &quot;RS256&quot;    <Finish/>
+   </txt>
+   <txt ptr="0x55d337415ed0" id="106" symbol="11SwTextFrame" next="109" prev="105" upper="100" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="58891" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+}    <Finish/>
+   </txt>
+   <txt ptr="0x55d336f03a10" id="109" symbol="11SwTextFrame" next="108" prev="106" upper="100" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59193" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33747f670" id="108" symbol="11SwTextFrame" next="110" prev="109" upper="100" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59495" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+E um payload:     <Finish/>
+   </txt>
+   <txt ptr="0x55d3373abeb0" id="110" symbol="11SwTextFrame" next="111" prev="108" upper="100" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="59947" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+{    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374abe00" id="111" symbol="11SwTextFrame" next="112" prev="110" upper="100" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="60368" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;fresh&quot;: false,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336dee390" id="112" symbol="11SwTextFrame" next="113" prev="111" upper="100" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="60670" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;iat&quot;: 1639746323,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336eb8b30" id="113" symbol="11SwTextFrame" next="114" prev="112" upper="100" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="60972" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;jti&quot;: &quot;b8d61eb0-f839-4ea7-82b4-937de49cb450&quot;,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d46640" id="114" symbol="11SwTextFrame" next="115" prev="113" upper="100" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61274" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;type&quot;: &quot;access&quot;,    <Finish/>
+   </txt>
+   <txt ptr="0x55d33741e400" id="115" symbol="11SwTextFrame" next="116" prev="114" upper="100" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61576" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;sub&quot;: &quot;test&quot;,    <Finish/>
+   </txt>
+   <txt ptr="0x55d333d99080" id="116" symbol="11SwTextFrame" next="117" prev="115" upper="100" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61878" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;nbf&quot;: 1639746323,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336df7260" id="117" symbol="11SwTextFrame" next="118" prev="116" upper="100" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62180" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+  &quot;exp&quot;: 1639746383    <Finish/>
+   </txt>
+   <txt ptr="0x55d337421100" id="118" symbol="11SwTextFrame" next="120" prev="117" upper="100" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62482" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+}    <Finish/>
+   </txt>
+   <txt ptr="0x55d336cf6570" id="120" symbol="11SwTextFrame" next="119" prev="118" upper="100" txtNodeIndex="96" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62784" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372c6ce0" id="119" symbol="11SwTextFrame" next="124" prev="120" upper="100" txtNodeIndex="97" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="63086" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+A última parte é a assinatura digital.     <Finish/>
+   </txt>
+   <txt ptr="0x55d336b98300" id="124" symbol="11SwTextFrame" next="123" prev="119" upper="100" txtNodeIndex="98" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="63538" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337424060" id="123" symbol="11SwTextFrame" next="130" prev="124" upper="100" txtNodeIndex="99" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="63995" width="9638" height="1408" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="1227"/>
+    </infos>
+O token não deve conter informações privilegiadas, como senhas ou níveis de autorização, ou mesmo dados de sessão. Se for necessário incluir isso, então é melhor encriptar o token. A própria proteção do HTTPS é suficiente para manter um token JWT protegido. Porém, é preciso verificar se a assinatura digital é válida e se o token não expirou.    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e92c10" id="130" symbol="11SwTextFrame" next="131" prev="123" upper="100" txtNodeIndex="100" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="65403" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Há duas maneiras de assinar um token JWT:     <Finish/>
+   </txt>
+   <txt ptr="0x55d32fdaa8d0" id="131" symbol="11SwTextFrame" next="132" prev="130" upper="100" txtNodeIndex="101" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="65860" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Chave simétrica: Todas as partes conhecem a chave, que serve para encriptar e decriptar;    <Finish/>
+   </txt>
+   <txt ptr="0x55d33405d1a0" id="132" symbol="11SwTextFrame" next="134" prev="131" upper="100" txtNodeIndex="102" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="66317" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Chave assimétrica: Há uma chave privada e uma chave pública;    <Finish/>
+   </txt>
+   <txt ptr="0x55d336f05090" id="134" symbol="11SwTextFrame" prev="132" upper="100" txtNodeIndex="103" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="66774" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d336c832b0" id="127" symbol="11SwPageFrame" next="157" prev="99" upper="0" lower="128">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="68772" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d32fdc8140" id="128" symbol="11SwBodyFrame" upper="127" lower="133">
+   <infos>
+    <bounds left="8181" top="69906" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d32fdd52d0" id="133" symbol="11SwTextFrame" next="147" upper="128" txtNodeIndex="104" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="69906" width="9638" height="593" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="593"/>
+    </infos>
+A maneira mais segura é assinar um token utilizando a chave assimétrica privada no backend, e validar com a chave assimétrica pública.    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ddb120" id="147" symbol="11SwTextFrame" next="146" prev="133" upper="128" txtNodeIndex="105" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="70499" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d333e32750" id="146" symbol="11SwTextFrame" next="149" prev="147" upper="128" txtNodeIndex="106" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="70956" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="421" width="9638" height="419"/>
+    </infos>
+Refresh de token    <Finish/>
+   </txt>
+   <txt ptr="0x55d337390aa0" id="149" symbol="11SwTextFrame" next="148" prev="146" upper="128" txtNodeIndex="107" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71796" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d31d80" id="148" symbol="11SwTextFrame" next="150" prev="149" upper="128" txtNodeIndex="108" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="72192" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+O que acontece quando o token expira? Simples: Você precisa se autenticar novamente!    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d7e9c0" id="150" symbol="11SwTextFrame" next="151" prev="148" upper="128" txtNodeIndex="109" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="72649" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Vários frameworks permitem refresh de token. Muitos geram novo token a cada request, ou quando o token está próximo de expirar. Também é possível colocar um prazo muito alto para expiração ou mesmo gerar token sem prazo de expiração, o que é muito arriscado.     <Finish/>
+   </txt>
+   <txt ptr="0x55d336de4f70" id="151" symbol="11SwTextFrame" next="152" prev="150" upper="128" txtNodeIndex="110" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="73740" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Um esquema que eu gosto é NÃO FAZER REFRESH! Ao fazer refresh, você revalida o token, permitindo que o usuário fique indefinidamente acessando com o mesmo token.     <Finish/>
+   </txt>
+   <txt ptr="0x55d3372f9810" id="152" symbol="11SwTextFrame" next="153" prev="151" upper="128" txtNodeIndex="111" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="74514" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Você pode gerar um token com duração inicial alta, digamos: 1 dia, e, para operações realmente sensíveis (comprar, deletar etc) pode exigir que o usuário entre com a senha novamente, gerando novo token.     <Finish/>
+   </txt>
+   <txt ptr="0x55d33726ee10" id="153" symbol="11SwTextFrame" next="137" prev="152" upper="128" txtNodeIndex="112" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="75605" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Muitas aplicações usam este esquema. Depois que o usuário se autentica, deixam acessar as rotas menos sensíveis mas, para acessar perfil ou realizar compras, exigem a senha novamente, gerando um token mais recente.     <Finish/>
+   </txt>
+   <txt ptr="0x55d3373072d0" id="137" symbol="11SwTextFrame" next="136" prev="153" upper="128" txtNodeIndex="113" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="76696" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336c914f0" id="136" symbol="11SwTextFrame" next="139" prev="137" upper="128" txtNodeIndex="114" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="77153" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="421" width="9638" height="419"/>
+    </infos>
+Em resumo    <Finish/>
+   </txt>
+   <txt ptr="0x55d336420bd0" id="139" symbol="11SwTextFrame" next="138" prev="136" upper="128" txtNodeIndex="115" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="77993" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d32faf1bc0" id="138" symbol="11SwTextFrame" next="140" prev="139" upper="128" txtNodeIndex="116" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="78389" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Tokens JWT servem para identificar um usuário autenticado;    <Finish/>
+   </txt>
+   <txt ptr="0x55d333d992b0" id="140" symbol="11SwTextFrame" next="141" prev="138" upper="128" txtNodeIndex="117" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="78846" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Devem ser enviados no header Authorization;    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e21310" id="141" symbol="11SwTextFrame" next="142" prev="140" upper="128" txtNodeIndex="118" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="79303" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Podem expirar, requerendo geração de novo token;    <Finish/>
+   </txt>
+   <txt ptr="0x55d337419850" id="142" symbol="11SwTextFrame" next="143" prev="141" upper="128" txtNodeIndex="119" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="79760" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Não devem ser utilizados para trafegar nada além dos claims padrões;    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373610f0" id="143" symbol="11SwTextFrame" next="145" prev="142" upper="128" txtNodeIndex="120" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="80217" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Devem ser assinados digitalmente com chaves assimétricas;    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372a2b10" id="145" symbol="11SwTextFrame" next="156" prev="143" upper="128" txtNodeIndex="121" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="80674" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33746ccc0" id="156" symbol="11SwTextFrame" prev="145" upper="128" txtNodeIndex="122" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="81131" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d336e2a000" id="157" symbol="11SwPageFrame" next="185" prev="127" upper="0" lower="158">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="85894" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d336d89800" id="158" symbol="11SwBodyFrame" upper="157" lower="144">
+   <infos>
+    <bounds left="8181" top="87028" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d3373cb870" id="144" symbol="11SwTextFrame" next="161" upper="158" txtNodeIndex="123" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="87028" width="9638" height="659" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="240" width="9638" height="419"/>
+    </infos>
+Uso em python    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ea6e30" id="161" symbol="11SwTextFrame" next="160" prev="144" upper="158" txtNodeIndex="124" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="87687" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d89e40" id="160" symbol="11SwTextFrame" next="162" prev="161" upper="158" txtNodeIndex="125" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="88083" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+O uso de JWT em python é feito através da biblioteca pyjwt (em conjunto com a cryptography).     <Finish/>
+   </txt>
+   <txt ptr="0x55d3372f76d0" id="162" symbol="11SwTextFrame" next="165" prev="160" upper="158" txtNodeIndex="126" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="88540" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Eu tenho um repositório com demonstração de uso de JWT com Python:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336df9a80" id="165" symbol="11SwTextFrame" next="164" prev="162" upper="158" txtNodeIndex="127" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="88997" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336cf2980" id="164" symbol="11SwTextFrame" next="167" prev="165" upper="158" txtNodeIndex="128" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="89454" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Primeiramente, crie um ambiente virtual:     <Finish/>
+   </txt>
+   <txt ptr="0x55d333c3cba0" id="167" symbol="11SwTextFrame" next="169" prev="164" upper="158" txtNodeIndex="129" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="89911" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+python -m venv .    <Finish/>
+   </txt>
+   <txt ptr="0x55d337517d40" id="169" symbol="11SwTextFrame" next="168" prev="167" upper="158" txtNodeIndex="130" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="90332" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337294540" id="168" symbol="11SwTextFrame" next="170" prev="169" upper="158" txtNodeIndex="131" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="90784" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Depois, ative e instale as dependências:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336d8fa80" id="170" symbol="11SwTextFrame" next="171" prev="168" upper="158" txtNodeIndex="132" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="91241" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+source bin/activate    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373ffb00" id="171" symbol="11SwTextFrame" next="173" prev="170" upper="158" txtNodeIndex="133" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="91662" width="9638" height="416" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="240"/>
+    </infos>
+pip install -r requirements.txt    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b87480" id="173" symbol="11SwTextFrame" next="172" prev="171" upper="158" txtNodeIndex="134" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="92078" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e059f0" id="172" symbol="11SwTextFrame" next="174" prev="173" upper="158" txtNodeIndex="135" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="92530" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Há três exemplos de uso:     <Finish/>
+   </txt>
+   <txt ptr="0x55d33724d200" id="174" symbol="11SwTextFrame" next="175" prev="172" upper="158" txtNodeIndex="136" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="92987" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Assinatura com chave simétrica: first.py;    <Finish/>
+   </txt>
+   <txt ptr="0x55d337314800" id="175" symbol="11SwTextFrame" next="176" prev="174" upper="158" txtNodeIndex="137" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="93444" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Assinatura com chave assimétrica: asymetric.py;    <Finish/>
+   </txt>
+   <txt ptr="0x55d337420d50" id="176" symbol="11SwTextFrame" next="178" prev="175" upper="158" txtNodeIndex="138" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="93901" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="360" top="181" width="9278" height="276"/>
+    </infos>
+Aplicação REST: restsample.py;    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374a9f50" id="178" symbol="11SwTextFrame" next="177" prev="176" upper="158" txtNodeIndex="139" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="94358" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336bc9840" id="177" symbol="11SwTextFrame" next="181" prev="178" upper="158" txtNodeIndex="140" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="94815" width="9638" height="752" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="381" width="9638" height="371"/>
+    </infos>
+Uso básico    <Finish/>
+   </txt>
+   <txt ptr="0x55d336eca560" id="181" symbol="11SwTextFrame" next="180" prev="177" upper="158" txtNodeIndex="141" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="95567" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337333e80" id="180" symbol="11SwTextFrame" next="192" prev="181" upper="158" txtNodeIndex="142" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="95963" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+O script first.py demonstra o uso básico de token, gerando e verificando. Podemos gerar um token com a função encode:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336ed5660" id="192" symbol="11SwTextFrame" next="193" prev="180" upper="158" txtNodeIndex="143" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="96737" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ec0950" id="193" symbol="11SwTextFrame" next="194" prev="192" upper="158" txtNodeIndex="144" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="97158" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+payload = {    <Finish/>
+   </txt>
+   <txt ptr="0x55d332e015a0" id="194" symbol="11SwTextFrame" next="195" prev="193" upper="158" txtNodeIndex="145" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="97460" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    &quot;sub&quot;: &quot;cleuton&quot;    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b98600" id="195" symbol="11SwTextFrame" next="197" prev="194" upper="158" txtNodeIndex="146" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="97762" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+}    <Finish/>
+   </txt>
+   <txt ptr="0x55d337317500" id="197" symbol="11SwTextFrame" next="196" prev="195" upper="158" txtNodeIndex="147" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="98064" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337190640" id="196" symbol="11SwTextFrame" next="184" prev="197" upper="158" txtNodeIndex="148" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="98366" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+senha_simetrica = 'senha-secreta!!'    <Finish/>
+   </txt>
+   <txt ptr="0x55d337511cd0" id="184" symbol="11SwTextFrame" next="187" prev="196" upper="158" txtNodeIndex="149" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="98668" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+token = jwt.encode(    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374f8d70" id="187" symbol="11SwTextFrame" next="188" prev="184" upper="158" txtNodeIndex="150" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="98970" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    payload=payload,    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ddc980" id="188" symbol="11SwTextFrame" next="189" prev="187" upper="158" txtNodeIndex="151" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="99272" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    key=senha_simetrica    <Finish/>
+   </txt>
+   <txt ptr="0x55d337429400" id="189" symbol="11SwTextFrame" next="191" prev="188" upper="158" txtNodeIndex="152" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="99574" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+)    <Finish/>
+   </txt>
+   <txt ptr="0x55d33726afb0" id="191" symbol="11SwTextFrame" next="190" prev="189" upper="158" txtNodeIndex="153" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="99876" width="9638" height="338" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3364ba330" id="190" symbol="11SwTextFrame" next="198" prev="191" upper="158" txtNodeIndex="154" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="100214" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Aqui utilizamos uma senha simétrica e um payload contendo apenas “sub”.     <Finish/>
+   </txt>
+   <txt ptr="0x55d336c79220" id="198" symbol="11SwTextFrame" next="183" prev="190" upper="158" txtNodeIndex="155" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="100671" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336c9bba0" id="183" symbol="11SwTextFrame" prev="198" upper="158" txtNodeIndex="156" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="101128" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Podemos validar um token com a função decode:     <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d33727b420" id="185" symbol="11SwPageFrame" next="226" prev="157" upper="0" lower="186">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="103016" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d33731d400" id="186" symbol="11SwBodyFrame" upper="185" lower="200">
+   <infos>
+    <bounds left="8181" top="104150" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d333c3cee0" id="200" symbol="11SwTextFrame" next="205" upper="186" txtNodeIndex="157" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="104150" width="9638" height="516" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="516"/>
+    </infos>
+print(jwt.decode(token, key=senha_simetrica, algorithms=['HS256', ]))    <Finish/>
+   </txt>
+   <txt ptr="0x55d33742a4a0" id="205" symbol="11SwTextFrame" next="204" prev="200" upper="186" txtNodeIndex="158" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="104666" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372e7af0" id="204" symbol="11SwTextFrame" next="207" prev="205" upper="186" txtNodeIndex="159" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="105118" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+O algoritmo “HS256” é de chave simétrica. Se tudo der certo, o resultado é o payload:     <Finish/>
+   </txt>
+   <txt ptr="0x55d337323230" id="207" symbol="11SwTextFrame" next="210" prev="204" upper="186" txtNodeIndex="160" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="105575" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+{'sub': 'cleuton'}    <Finish/>
+   </txt>
+   <txt ptr="0x55d33728f8b0" id="210" symbol="11SwTextFrame" next="209" prev="207" upper="186" txtNodeIndex="161" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="105996" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e830b0" id="209" symbol="11SwTextFrame" next="208" prev="210" upper="186" txtNodeIndex="162" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="106448" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+E podemos usar os campos do payload em nosso programa.     <Finish/>
+   </txt>
+   <txt ptr="0x55d33750eed0" id="208" symbol="11SwTextFrame" next="206" prev="209" upper="186" txtNodeIndex="163" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="106905" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33738f370" id="206" symbol="11SwTextFrame" next="211" prev="208" upper="186" txtNodeIndex="164" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="107362" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Se o token estiver inválido (assinatura não confere) uma exception será retornada:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336cc6970" id="211" symbol="11SwTextFrame" next="213" prev="206" upper="186" txtNodeIndex="165" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="107819" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+fake_token=token.replace('XA','X0')    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ece420" id="213" symbol="11SwTextFrame" next="212" prev="211" upper="186" txtNodeIndex="166" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="108200" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337239de0" id="212" symbol="11SwTextFrame" next="215" prev="213" upper="186" txtNodeIndex="167" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="108456" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+print(fake_token)    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ed8760" id="215" symbol="11SwTextFrame" next="214" prev="212" upper="186" txtNodeIndex="168" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="108712" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373d4860" id="214" symbol="11SwTextFrame" next="216" prev="215" upper="186" txtNodeIndex="169" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="108968" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+try:    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d6b4d0" id="216" symbol="11SwTextFrame" next="217" prev="214" upper="186" txtNodeIndex="170" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="109224" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    print(jwt.decode(fake_token, key=senha_simetrica, algorithms=['HS256', ]))    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ccc560" id="217" symbol="11SwTextFrame" next="218" prev="216" upper="186" txtNodeIndex="171" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="109480" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+except InvalidSignatureError as e:    <Finish/>
+   </txt>
+   <txt ptr="0x55d333d95880" id="218" symbol="11SwTextFrame" next="220" prev="217" upper="186" txtNodeIndex="172" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="109736" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    print(e)    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372156d0" id="220" symbol="11SwTextFrame" next="219" prev="218" upper="186" txtNodeIndex="173" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="109992" width="9638" height="332" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d333d8a8b0" id="219" symbol="11SwTextFrame" next="224" prev="220" upper="186" txtNodeIndex="174" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="110324" width="9638" height="752" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="381" width="9638" height="371"/>
+    </infos>
+Uso com assinatura de chave assimétrica    <Finish/>
+   </txt>
+   <txt ptr="0x55d33721b090" id="224" symbol="11SwTextFrame" next="223" prev="219" upper="186" txtNodeIndex="175" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="111076" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337277fe0" id="223" symbol="11SwTextFrame" next="225" prev="224" upper="186" txtNodeIndex="176" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="111472" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Esta é a maneira mais segura de assinar e validar um token. Podemos gerar chave assimétrica com o  OpenSSH:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336d2ac70" id="225" symbol="11SwTextFrame" next="230" prev="223" upper="186" txtNodeIndex="177" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="112246" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+ssh-keygen -t rsa    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ddc500" id="230" symbol="11SwTextFrame" next="229" prev="225" upper="186" txtNodeIndex="178" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="112667" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d0c000" id="229" symbol="11SwTextFrame" next="232" prev="230" upper="186" txtNodeIndex="179" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="113119" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Você pode gerar as chaves em qualquer pasta. Uma chave privada será criada e uma chave pública (extensão “.pub) também será criada.     <Finish/>
+   </txt>
+   <txt ptr="0x55d33751fe30" id="232" symbol="11SwTextFrame" next="231" prev="229" upper="186" txtNodeIndex="180" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="113893" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372d2ec0" id="231" symbol="11SwTextFrame" next="234" prev="232" upper="186" txtNodeIndex="181" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="114350" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Utilizando o pacote cryptography podemos ler e armazenar o texto das chaves:     <Finish/>
+   </txt>
+   <txt ptr="0x55d3372ad6a0" id="234" symbol="11SwTextFrame" next="235" prev="231" upper="186" txtNodeIndex="182" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="114807" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+private_key = open('.ssh/cleuton', 'r').read()    <Finish/>
+   </txt>
+   <txt ptr="0x55d33721af60" id="235" symbol="11SwTextFrame" next="236" prev="234" upper="186" txtNodeIndex="183" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="115188" width="9638" height="600" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="430"/>
+    </infos>
+key = serialization.load_ssh_private_key(private_key.encode(), password=b'teste')    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b6c0c0" id="236" symbol="11SwTextFrame" next="237" prev="235" upper="186" txtNodeIndex="184" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="115788" width="9638" height="370" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="200"/>
+    </infos>
+…    <Finish/>
+   </txt>
+   <txt ptr="0x55d33751f340" id="237" symbol="11SwTextFrame" next="238" prev="236" upper="186" txtNodeIndex="185" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="116158" width="9638" height="370" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="200"/>
+    </infos>
+public_key = open('.ssh/cleuton.pub', 'r').read()    <Finish/>
+   </txt>
+   <txt ptr="0x55d337439280" id="238" symbol="11SwTextFrame" next="240" prev="237" upper="186" txtNodeIndex="186" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="116528" width="9638" height="370" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="200"/>
+    </infos>
+pubKey = serialization.load_ssh_public_key(public_key.encode())    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374a1e10" id="240" symbol="11SwTextFrame" next="239" prev="238" upper="186" txtNodeIndex="187" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="116898" width="9638" height="446" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33726d2e0" id="239" symbol="11SwTextFrame" next="242" prev="240" upper="186" txtNodeIndex="188" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="117344" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Se você usou uma passphrase para proteger sua chave privada, então tem que informá-la quando for carregar (argumento password).     <Finish/>
+   </txt>
+   <txt ptr="0x55d337495ac0" id="242" symbol="11SwTextFrame" prev="239" upper="186" txtNodeIndex="189" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="118118" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d3373bbc10" id="226" symbol="11SwPageFrame" next="262" prev="185" upper="0" lower="227">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="120138" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d337345b20" id="227" symbol="11SwBodyFrame" upper="226" lower="241">
+   <infos>
+    <bounds left="8181" top="121272" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d336f0eee0" id="241" symbol="11SwTextFrame" next="243" upper="227" txtNodeIndex="190" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="121272" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+A única diferença no encode do token é a chave privada para assinar:     <Finish/>
+   </txt>
+   <txt ptr="0x55d3375034c0" id="243" symbol="11SwTextFrame" next="244" prev="241" upper="227" txtNodeIndex="191" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="121548" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+new_token = jwt.encode(    <Finish/>
+   </txt>
+   <txt ptr="0x55d337190a80" id="244" symbol="11SwTextFrame" next="245" prev="243" upper="227" txtNodeIndex="192" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="121969" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    payload=payload_data,    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372e38f0" id="245" symbol="11SwTextFrame" next="246" prev="244" upper="227" txtNodeIndex="193" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="122271" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    key=key,    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372e3dc0" id="246" symbol="11SwTextFrame" next="247" prev="245" upper="227" txtNodeIndex="194" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="122573" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+    algorithm='RS256'    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372442b0" id="247" symbol="11SwTextFrame" next="249" prev="246" upper="227" txtNodeIndex="195" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="122875" width="9638" height="302" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="240"/>
+    </infos>
+)    <Finish/>
+   </txt>
+   <txt ptr="0x55d336cea610" id="249" symbol="11SwTextFrame" next="248" prev="247" upper="227" txtNodeIndex="196" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="123177" width="9638" height="338" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="62" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33718fdb0" id="248" symbol="11SwTextFrame" next="253" prev="249" upper="227" txtNodeIndex="197" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="123515" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+A variável key é a chave privada que lemos e o algoritmo deve ser o “RS256”.    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374ff920" id="253" symbol="11SwTextFrame" next="252" prev="248" upper="227" txtNodeIndex="198" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="123972" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337332680" id="252" symbol="11SwTextFrame" next="254" prev="253" upper="227" txtNodeIndex="199" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="124429" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+A verificação também é semelhante:     <Finish/>
+   </txt>
+   <txt ptr="0x55d336503000" id="254" symbol="11SwTextFrame" next="256" prev="252" upper="227" txtNodeIndex="200" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="124886" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+print(jwt.decode(jwt=new_token, key=public_key, algorithms=['RS256', ]))    <Finish/>
+   </txt>
+   <txt ptr="0x55d3375253a0" id="256" symbol="11SwTextFrame" next="255" prev="254" upper="227" txtNodeIndex="201" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="125267" width="9638" height="446" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374a1c20" id="255" symbol="11SwTextFrame" next="260" prev="256" upper="227" txtNodeIndex="202" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="125713" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Só que utilizamos a chave pública para validar a assinatura. Se der erro, a mesma exception será levantada.    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374677d0" id="260" symbol="11SwTextFrame" next="259" prev="255" upper="227" txtNodeIndex="203" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="126487" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337420800" id="259" symbol="11SwTextFrame" next="264" prev="260" upper="227" txtNodeIndex="204" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="126944" width="9638" height="752" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="381" width="9638" height="371"/>
+    </infos>
+Uso com serviços REST    <Finish/>
+   </txt>
+   <txt ptr="0x55d337473350" id="264" symbol="11SwTextFrame" next="261" prev="259" upper="227" txtNodeIndex="205" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="127696" width="9638" height="396" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="120" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337472850" id="261" symbol="11SwTextFrame" next="265" prev="264" upper="227" txtNodeIndex="206" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="128092" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+O Flask tem o pacote flask_jwt_extended com uma série de utilitários para usar JWT em serviços REST.     <Finish/>
+   </txt>
+   <txt ptr="0x55d337252520" id="265" symbol="11SwTextFrame" next="266" prev="261" upper="227" txtNodeIndex="207" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="128866" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Precisamos configurar nossa app Flask para trabalhar com JWT:     <Finish/>
+   </txt>
+   <txt ptr="0x55d3371907d0" id="266" symbol="11SwTextFrame" next="267" prev="265" upper="227" txtNodeIndex="208" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="129323" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+app.config[&quot;JWT_PRIVATE_KEY&quot;] = prKey    <Finish/>
+   </txt>
+   <txt ptr="0x55d3364ab4d0" id="267" symbol="11SwTextFrame" next="268" prev="266" upper="227" txtNodeIndex="209" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="129704" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+app.config[&quot;JWT_PUBLIC_KEY&quot;] = pubKey    <Finish/>
+   </txt>
+   <txt ptr="0x55d337503b90" id="268" symbol="11SwTextFrame" next="271" prev="267" upper="227" txtNodeIndex="210" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="129960" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+app.config['JWT_ALGORITHM'] = 'RS256'    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373350b0" id="271" symbol="11SwTextFrame" next="258" prev="268" upper="227" txtNodeIndex="211" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="130216" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = datetime.timedelta(minutes=1)    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e0d260" id="258" symbol="11SwTextFrame" next="257" prev="271" upper="227" txtNodeIndex="212" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="130472" width="9638" height="332" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33744e490" id="257" symbol="11SwTextFrame" next="274" prev="258" upper="227" txtNodeIndex="213" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="130804" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+Note que já carretamos nossas chaves privada e pública, também selecionamos o algoritmo e o valor padrão para a claim “exp”, que será em 1 minuto (só para exemplo).    <Finish/>
+   </txt>
+   <txt ptr="0x55d337352040" id="274" symbol="11SwTextFrame" next="273" prev="257" upper="227" txtNodeIndex="214" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="131578" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372f9120" id="273" symbol="11SwTextFrame" next="275" prev="274" upper="227" txtNodeIndex="215" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="132035" width="9638" height="774" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="593"/>
+    </infos>
+São poucas diferenças para uma aplicação REST Flask comum. A primeira é a necessidade de adicionar o JWTManager:     <Finish/>
+   </txt>
+   <txt ptr="0x55d337241300" id="275" symbol="11SwTextFrame" next="277" prev="273" upper="227" txtNodeIndex="216" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="132809" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+jwt = JWTManager(app)    <Finish/>
+   </txt>
+   <txt ptr="0x55d337295780" id="277" symbol="11SwTextFrame" next="276" prev="275" upper="227" txtNodeIndex="217" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="133230" width="9638" height="452" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3365036c0" id="276" symbol="11SwTextFrame" next="278" prev="277" upper="227" txtNodeIndex="218" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="133682" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+As rotas REST que queremos proteger temos que anotar com o decorator @jwt_required:     <Finish/>
+   </txt>
+   <txt ptr="0x55d3372c2d40" id="278" symbol="11SwTextFrame" next="279" prev="276" upper="227" txtNodeIndex="219" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="134139" width="9638" height="421" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="240"/>
+    </infos>
+@app.route(&quot;/protected&quot;, methods=[&quot;GET&quot;])    <Finish/>
+   </txt>
+   <txt ptr="0x55d336dfa500" id="279" symbol="11SwTextFrame" next="280" prev="278" upper="227" txtNodeIndex="220" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="134560" width="9638" height="416" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="240"/>
+    </infos>
+@jwt_required()    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372abb80" id="280" symbol="11SwTextFrame" prev="279" upper="227" txtNodeIndex="221" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="134976" width="9638" height="416" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="176" width="9638" height="240"/>
+    </infos>
+def protected():    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d3372c8580" id="262" symbol="11SwPageFrame" next="304" prev="226" upper="0" lower="263">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="137260" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d3372f6e50" id="263" symbol="11SwBodyFrame" upper="262" lower="281">
+   <infos>
+    <bounds left="8181" top="138394" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d336dcedf0" id="281" symbol="11SwTextFrame" next="283" upper="263" txtNodeIndex="222" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="138394" width="9638" height="593" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="593"/>
+    </infos>
+Se o frontend tentar acessar uma dessas rotas, sem ter o header Authorization, vai tomar um HTTP Status 401.    <Text nLength="57" nType="PortionType::Text" nHeight="276" nWidth="5385" Portion="Se o frontend tentar acessar uma dessas rotas, sem ter o "/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="276" nWidth="2105" Portion="header Authorization"/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="276" nWidth="2111" Portion=", vai tomar um HTTP "/>
+    <LineBreak nWidth="9601" Line="Se o frontend tentar acessar uma dessas rotas, sem ter o header Authorization, vai tomar um HTTP "/>
+    <Text nLength="11" nType="PortionType::Lay" nHeight="276" nWidth="1067" Portion="Status 401."/>
+    <LineBreak nWidth="1067" Line="Status 401."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33719c450" id="283" symbol="11SwTextFrame" next="282" prev="281" upper="263" txtNodeIndex="223" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="138987" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337374590" id="282" symbol="11SwTextFrame" next="284" prev="283" upper="263" txtNodeIndex="224" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="139444" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+$ curl -i http://localhost:5000/protected    <Text nLength="10" nType="PortionType::Text" nHeight="200" nWidth="1200" Portion="$ curl -i "/>
+    <Text nLength="31" nType="PortionType::Text" nHeight="200" nWidth="3720" Portion="http://localhost:5000/protected"/>
+    <LineBreak nWidth="4920" Line="$ curl -i http://localhost:5000/protected"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374c1a40" id="284" symbol="11SwTextFrame" next="285" prev="282" upper="263" txtNodeIndex="225" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="139825" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+HTTP/1.0 401 UNAUTHORIZED    <Text nLength="25" nType="PortionType::Para" nHeight="200" nWidth="3000" Portion="HTTP/1.0 401 UNAUTHORIZED"/>
+    <LineBreak nWidth="3000" Line="HTTP/1.0 401 UNAUTHORIZED"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336df0020" id="285" symbol="11SwTextFrame" next="286" prev="284" upper="263" txtNodeIndex="226" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="140081" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Type: application/json    <Text nLength="30" nType="PortionType::Para" nHeight="200" nWidth="3600" Portion="Content-Type: application/json"/>
+    <LineBreak nWidth="3600" Line="Content-Type: application/json"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33690b1c0" id="286" symbol="11SwTextFrame" next="287" prev="285" upper="263" txtNodeIndex="227" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="140337" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Length: 39    <Text nLength="18" nType="PortionType::Para" nHeight="200" nWidth="2160" Portion="Content-Length: 39"/>
+    <LineBreak nWidth="2160" Line="Content-Length: 39"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337487170" id="287" symbol="11SwTextFrame" next="288" prev="286" upper="263" txtNodeIndex="228" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="140593" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Server: Werkzeug/2.0.2 Python/3.8.8    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <LineBreak nWidth="4200" Line="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337318ca0" id="288" symbol="11SwTextFrame" next="290" prev="287" upper="263" txtNodeIndex="229" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="140849" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Date: Fri, 17 Dec 2021 14:41:35 GMT    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Date: Fri, 17 Dec 2021 14:41:35 GMT"/>
+    <LineBreak nWidth="4200" Line="Date: Fri, 17 Dec 2021 14:41:35 GMT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3371ad9d0" id="290" symbol="11SwTextFrame" next="289" prev="288" upper="263" txtNodeIndex="230" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="141105" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373cfd50" id="289" symbol="11SwTextFrame" next="292" prev="290" upper="263" txtNodeIndex="231" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="141361" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+{&quot;msg&quot;:&quot;Missing Authorization Header&quot;}    <Text nLength="38" nType="PortionType::Para" nHeight="200" nWidth="4560" Portion="{&quot;msg&quot;:&quot;Missing Authorization Header&quot;}"/>
+    <LineBreak nWidth="4560" Line="{&quot;msg&quot;:&quot;Missing Authorization Header&quot;}"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3366e26b0" id="292" symbol="11SwTextFrame" next="291" prev="289" upper="263" txtNodeIndex="232" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="141617" width="9638" height="332" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ce8810" id="291" symbol="11SwTextFrame" next="293" prev="292" upper="263" txtNodeIndex="233" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="141949" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Se ele usar a rota de login, informando usuário e senha corretos, vai receber um token JWT:     <Text nLength="22" nType="PortionType::Text" nHeight="276" nWidth="1986" Portion="Se ele usar a rota de "/>
+    <Text nLength="5" nType="PortionType::Text" nHeight="276" nWidth="507" Portion="login"/>
+    <Text nLength="65" nType="PortionType::Text" nHeight="276" nWidth="6392" Portion=", informando usu&#xE1;rio e senha corretos, vai receber um token JWT: "/>
+    <LineBreak nWidth="8885" Line="Se ele usar a rota de login, informando usu&#xE1;rio e senha corretos, vai receber um token JWT: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373ccdb0" id="293" symbol="11SwTextFrame" next="251" prev="291" upper="263" txtNodeIndex="234" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="142406" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33729f2b0" id="251" symbol="11SwTextFrame" next="294" prev="293" upper="263" txtNodeIndex="235" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="142863" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+$ curl -i --header &quot;Content-Type: application/json&quot; \    <Text nLength="53" nType="PortionType::Para" nHeight="200" nWidth="6360" Portion="$ curl -i --header &quot;Content-Type: application/json&quot; \"/>
+    <LineBreak nWidth="6360" Line="$ curl -i --header &quot;Content-Type: application/json&quot; \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372d9ad0" id="294" symbol="11SwTextFrame" next="295" prev="251" upper="263" txtNodeIndex="236" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="143244" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+&gt;   --request POST \    <Text nLength="20" nType="PortionType::Para" nHeight="200" nWidth="2400" Portion="&gt;   --request POST \"/>
+    <LineBreak nWidth="2400" Line="&gt;   --request POST \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3374036e0" id="295" symbol="11SwTextFrame" next="296" prev="294" upper="263" txtNodeIndex="237" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="143500" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+&gt;   --data '{&quot;username&quot;:&quot;test&quot;,&quot;password&quot;:&quot;test&quot;}' \    <Text nLength="4" nType="PortionType::Text" nHeight="200" nWidth="480" Portion="&gt;   "/>
+    <Text nLength="46" nType="PortionType::Text" nHeight="200" nWidth="5520" Portion="--data '{&quot;username&quot;:&quot;test&quot;,&quot;password&quot;:&quot;test&quot;}'"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="200" nWidth="240" Portion=" \"/>
+    <LineBreak nWidth="6240" Line="&gt;   --data '{&quot;username&quot;:&quot;test&quot;,&quot;password&quot;:&quot;test&quot;}' \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372b8c90" id="296" symbol="11SwTextFrame" next="297" prev="295" upper="263" txtNodeIndex="238" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="143756" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+&gt;   http://localhost:5000/login    <Text nLength="3" nType="PortionType::Text" nHeight="200" nWidth="360" Portion="&gt;  "/>
+    <Text nLength="28" nType="PortionType::Text" nHeight="200" nWidth="3360" Portion=" http://localhost:5000/login"/>
+    <LineBreak nWidth="3720" Line="&gt;   http://localhost:5000/login"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3375377e0" id="297" symbol="11SwTextFrame" next="298" prev="296" upper="263" txtNodeIndex="239" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="144012" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+HTTP/1.0 200 OK    <Text nLength="15" nType="PortionType::Para" nHeight="200" nWidth="1800" Portion="HTTP/1.0 200 OK"/>
+    <LineBreak nWidth="1800" Line="HTTP/1.0 200 OK"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e12500" id="298" symbol="11SwTextFrame" next="299" prev="297" upper="263" txtNodeIndex="240" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="144268" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Type: application/json    <Text nLength="30" nType="PortionType::Para" nHeight="200" nWidth="3600" Portion="Content-Type: application/json"/>
+    <LineBreak nWidth="3600" Line="Content-Type: application/json"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33728d110" id="299" symbol="11SwTextFrame" next="300" prev="298" upper="263" txtNodeIndex="241" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="144524" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Length: 757    <Text nLength="19" nType="PortionType::Para" nHeight="200" nWidth="2280" Portion="Content-Length: 757"/>
+    <LineBreak nWidth="2280" Line="Content-Length: 757"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373622a0" id="300" symbol="11SwTextFrame" next="301" prev="299" upper="263" txtNodeIndex="242" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="144780" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Server: Werkzeug/2.0.2 Python/3.8.8    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <LineBreak nWidth="4200" Line="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3375072c0" id="301" symbol="11SwTextFrame" next="303" prev="300" upper="263" txtNodeIndex="243" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="145036" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Date: Fri, 17 Dec 2021 14:43:43 GMT    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Date: Fri, 17 Dec 2021 14:43:43 GMT"/>
+    <LineBreak nWidth="4200" Line="Date: Fri, 17 Dec 2021 14:43:43 GMT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d334092dd0" id="303" symbol="11SwTextFrame" next="302" prev="301" upper="263" txtNodeIndex="244" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="145292" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336eff460" id="302" symbol="11SwTextFrame" next="307" prev="303" upper="263" txtNodeIndex="245" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="145548" width="9638" height="2556" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="2500"/>
+    </infos>
+{&quot;access_token&quot;:&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjIyMywianRpIjoiODQ4YWFmZTMtYzIwMS00NTU0LTg4ZjktMzJiYTRiZTRkMmNhIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIyMjMsImV4cCI6MTYzOTc1MjI4M30.ZBNcAPW84KuRmXxIzMTWeypjJn6jSPHatlqSYiP0_UY1E22KI1bEmFMhq5OjXKvlibcJh_p2a4sReJ6Yi8dEdIYD9G4Nn6-3tu-dHkwdStt9EMJwGB8GPAtMc31OGDJVT6MuOgtpnXqzqyODiDLP1FEPfcCeyqPHPf35vs44Ks1rznfodUd14r6KMi3N342_eomsv0itq1u30kaEH1rNWIMqPrXSka8VdA1Xv_UP0PTPirU89o4hpCQyPDRNI1rtFX6ReA1wzTqKMFrFq2Cmkrw3CSePptJ2SM5eNGLaZvv37tpk9dL9YgDfYjxOZWa2U2D1EpdccX6h18cdBIObByJgTds5Z_qNX-bkhnX2mH2YCpF6odV4Ru7e7JWkIlZWD-3iv8q_TRp4q3f19RSAUPlIOpZQn17gAomYHUFIVmdZYupNnr3Gbk0YzHj_6GdNdNUL3nQJAUA_c4—mtXak1Zrtjf58P_9Qe0laPAcXe6JodLFteKpxtqY0lPSgVb5&quot;}    <Text nLength="2" nType="PortionType::Text" nHeight="200" nWidth="240" Portion="{&quot;"/>
+    <Text nLength="12" nType="PortionType::Text" nHeight="200" nWidth="1440" Portion="access_token"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="200" nWidth="360" Portion="&quot;:&quot;"/>
+    <Text nLength="63" nType="PortionType::Text" nHeight="200" nWidth="7560" Portion="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdC"/>
+    <LineBreak nWidth="9600" Line="{&quot;access_token&quot;:&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdC"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="I6MTYzOTc1MjIyMywianRpIjoiODQ4YWFmZTMtYzIwMS00NTU0LTg4ZjktMzJiYTRiZTRkMmNhIiwidH"/>
+    <LineBreak nWidth="9600" Line="I6MTYzOTc1MjIyMywianRpIjoiODQ4YWFmZTMtYzIwMS00NTU0LTg4ZjktMzJiYTRiZTRkMmNhIiwidH"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="lwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIyMjMsImV4cCI6MTYzOTc1MjI4M3"/>
+    <LineBreak nWidth="9600" Line="lwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIyMjMsImV4cCI6MTYzOTc1MjI4M3"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="0.ZBNcAPW84KuRmXxIzMTWeypjJn6jSPHatlqSYiP0_UY1E22KI1bEmFMhq5OjXKvlibcJh_p2a4sReJ"/>
+    <LineBreak nWidth="9600" Line="0.ZBNcAPW84KuRmXxIzMTWeypjJn6jSPHatlqSYiP0_UY1E22KI1bEmFMhq5OjXKvlibcJh_p2a4sReJ"/>
+    <Text nLength="21" nType="PortionType::Lay" nHeight="200" nWidth="2520" Portion="6Yi8dEdIYD9G4Nn6-3tu-"/>
+    <LineBreak nWidth="2520" Line="6Yi8dEdIYD9G4Nn6-3tu-"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="dHkwdStt9EMJwGB8GPAtMc31OGDJVT6MuOgtpnXqzqyODiDLP1FEPfcCeyqPHPf35vs44Ks1rznfodUd"/>
+    <LineBreak nWidth="9600" Line="dHkwdStt9EMJwGB8GPAtMc31OGDJVT6MuOgtpnXqzqyODiDLP1FEPfcCeyqPHPf35vs44Ks1rznfodUd"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="14r6KMi3N342_eomsv0itq1u30kaEH1rNWIMqPrXSka8VdA1Xv_UP0PTPirU89o4hpCQyPDRNI1rtFX6"/>
+    <LineBreak nWidth="9600" Line="14r6KMi3N342_eomsv0itq1u30kaEH1rNWIMqPrXSka8VdA1Xv_UP0PTPirU89o4hpCQyPDRNI1rtFX6"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="ReA1wzTqKMFrFq2Cmkrw3CSePptJ2SM5eNGLaZvv37tpk9dL9YgDfYjxOZWa2U2D1EpdccX6h18cdBIO"/>
+    <LineBreak nWidth="9600" Line="ReA1wzTqKMFrFq2Cmkrw3CSePptJ2SM5eNGLaZvv37tpk9dL9YgDfYjxOZWa2U2D1EpdccX6h18cdBIO"/>
+    <Text nLength="47" nType="PortionType::Lay" nHeight="200" nWidth="5640" Portion="bByJgTds5Z_qNX-bkhnX2mH2YCpF6odV4Ru7e7JWkIlZWD-"/>
+    <LineBreak nWidth="5640" Line="bByJgTds5Z_qNX-bkhnX2mH2YCpF6odV4Ru7e7JWkIlZWD-"/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="200" nWidth="9240" Portion="3iv8q_TRp4q3f19RSAUPlIOpZQn17gAomYHUFIVmdZYupNnr3Gbk0YzHj_6GdNdNUL3nQJAUA_c4&#x2014;"/>
+    <LineBreak nWidth="9240" Line="3iv8q_TRp4q3f19RSAUPlIOpZQn17gAomYHUFIVmdZYupNnr3Gbk0YzHj_6GdNdNUL3nQJAUA_c4&#x2014;"/>
+    <Text nLength="48" nType="PortionType::Text" nHeight="200" nWidth="5760" Portion="mtXak1Zrtjf58P_9Qe0laPAcXe6JodLFteKpxtqY0lPSgVb5"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="200" nWidth="240" Portion="&quot;}"/>
+    <LineBreak nWidth="6000" Line="mtXak1Zrtjf58P_9Qe0laPAcXe6JodLFteKpxtqY0lPSgVb5&quot;}"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337319390" id="307" symbol="11SwTextFrame" next="306" prev="302" upper="263" txtNodeIndex="246" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="148104" width="9638" height="332" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337288000" id="306" symbol="11SwTextFrame" next="233" prev="307" upper="263" txtNodeIndex="247" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="148436" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Então ele pode acessar a rota protegida:     <Text nLength="41" nType="PortionType::Para" nHeight="276" nWidth="3871" Portion="Ent&#xE3;o ele pode acessar a rota protegida: "/>
+    <LineBreak nWidth="3871" Line="Ent&#xE3;o ele pode acessar a rota protegida: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33746f4c0" id="233" symbol="11SwTextFrame" next="222" prev="306" upper="263" txtNodeIndex="248" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="148893" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+     <Text nLength="1" nType="PortionType::Para" nHeight="276" nWidth="60" Portion=" "/>
+    <LineBreak nWidth="60" Line=" "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337408450" id="222" symbol="11SwTextFrame" next="308" prev="233" upper="263" txtNodeIndex="249" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="149350" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+$ curl --header &quot;Content-Type: application/json&quot; \    <Text nLength="50" nType="PortionType::Para" nHeight="200" nWidth="6000" Portion="$ curl --header &quot;Content-Type: application/json&quot; \"/>
+    <LineBreak nWidth="6000" Line="$ curl --header &quot;Content-Type: application/json&quot; \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336dcf4c0" id="308" symbol="11SwTextFrame" prev="222" upper="263" txtNodeIndex="250" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="149731" width="9638" height="3130" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="2960"/>
+    </infos>
+&gt; --header &quot;Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjM4MCwianRpIjoiOTExNTIyZTQtOGFmYy00ZWY1LTgxYjktNzBlN2Y5YTUyYzkyIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIzODAsImV4cCI6MTYzOTc1Mjk4MH0.WB9z23HENzk-14ndAaj5I7E7Sc7FUzPmZ8Vk6z-l3S6pey0qh69O8hjJG6tQc2myFdMy8fddKqrDEVYsfhujactbUqsAjBT6vDDMzStWJMCZzTcoZD4kRHHaYSaAjr4oUbj5B9CSJCnqfqHjNp4Ym-gYdrIYBRBy5Fdw4Wm8eEip_X83dQ-XP8T50DQiBteorBMT6Hi20Ktpvefxzlr7NwrK_uP27LKkL_b5nT__3VXdfcUnNYonjU_YV-QUZSRL7SHBiZMIvHmMHQ46-8NbMBguFCekqNZjdIDLD4YWXi7dgR-fN52mVsBgEFhFi6MNm5ENPx2V71_109v837OYSl5MufYWkCNP5X1wwW37uXrkkGYiSI2A0CJ689ZaMruYYSUSNt71A-OK1uJ7sbwdEiReM2HOR1oePiLc5Q3xWD9UwBrIfbYDsoX3SbvggtxizXRiEWpxi3fXG9Gk4u7oy6BQC7I9mwKoZdVLumLGFEfm0wgfjC-YXLRP0jZsJNKt&quot; \    <Text nLength="34" nType="PortionType::Para" nHeight="200" nWidth="4080" Portion="&gt; --header &quot;Authorization: Bearer "/>
+    <LineBreak nWidth="4080" Line="&gt; --header &quot;Authorization: Bearer "/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjM4MCw"/>
+    <LineBreak nWidth="9600" Line="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjM4MCw"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="ianRpIjoiOTExNTIyZTQtOGFmYy00ZWY1LTgxYjktNzBlN2Y5YTUyYzkyIiwidHlwZSI6ImFjY2VzcyI"/>
+    <LineBreak nWidth="9600" Line="ianRpIjoiOTExNTIyZTQtOGFmYy00ZWY1LTgxYjktNzBlN2Y5YTUyYzkyIiwidHlwZSI6ImFjY2VzcyI"/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="200" nWidth="9240" Portion="sInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIzODAsImV4cCI6MTYzOTc1Mjk4MH0.WB9z23HENzk-"/>
+    <LineBreak nWidth="9240" Line="sInN1YiI6InRlc3QiLCJuYmYiOjE2Mzk3NTIzODAsImV4cCI6MTYzOTc1Mjk4MH0.WB9z23HENzk-"/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="200" nWidth="3240" Portion="14ndAaj5I7E7Sc7FUzPmZ8Vk6z-"/>
+    <LineBreak nWidth="3240" Line="14ndAaj5I7E7Sc7FUzPmZ8Vk6z-"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="l3S6pey0qh69O8hjJG6tQc2myFdMy8fddKqrDEVYsfhujactbUqsAjBT6vDDMzStWJMCZzTcoZD4kRHH"/>
+    <LineBreak nWidth="9600" Line="l3S6pey0qh69O8hjJG6tQc2myFdMy8fddKqrDEVYsfhujactbUqsAjBT6vDDMzStWJMCZzTcoZD4kRHH"/>
+    <Text nLength="60" nType="PortionType::Lay" nHeight="200" nWidth="7200" Portion="aYSaAjr4oUbj5B9CSJCnqfqHjNp4Ym-gYdrIYBRBy5Fdw4Wm8eEip_X83dQ-"/>
+    <LineBreak nWidth="7200" Line="aYSaAjr4oUbj5B9CSJCnqfqHjNp4Ym-gYdrIYBRBy5Fdw4Wm8eEip_X83dQ-"/>
+    <Text nLength="71" nType="PortionType::Lay" nHeight="200" nWidth="8520" Portion="XP8T50DQiBteorBMT6Hi20Ktpvefxzlr7NwrK_uP27LKkL_b5nT__3VXdfcUnNYonjU_YV-"/>
+    <LineBreak nWidth="8520" Line="XP8T50DQiBteorBMT6Hi20Ktpvefxzlr7NwrK_uP27LKkL_b5nT__3VXdfcUnNYonjU_YV-"/>
+    <Text nLength="53" nType="PortionType::Lay" nHeight="200" nWidth="6360" Portion="QUZSRL7SHBiZMIvHmMHQ46-8NbMBguFCekqNZjdIDLD4YWXi7dgR-"/>
+    <LineBreak nWidth="6360" Line="QUZSRL7SHBiZMIvHmMHQ46-8NbMBguFCekqNZjdIDLD4YWXi7dgR-"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="fN52mVsBgEFhFi6MNm5ENPx2V71_109v837OYSl5MufYWkCNP5X1wwW37uXrkkGYiSI2A0CJ689ZaMru"/>
+    <LineBreak nWidth="9600" Line="fN52mVsBgEFhFi6MNm5ENPx2V71_109v837OYSl5MufYWkCNP5X1wwW37uXrkkGYiSI2A0CJ689ZaMru"/>
+    <Text nLength="11" nType="PortionType::Lay" nHeight="200" nWidth="1320" Portion="YYSUSNt71A-"/>
+    <LineBreak nWidth="1320" Line="YYSUSNt71A-"/>
+    <Text nLength="80" nType="PortionType::Lay" nHeight="200" nWidth="9600" Portion="OK1uJ7sbwdEiReM2HOR1oePiLc5Q3xWD9UwBrIfbYDsoX3SbvggtxizXRiEWpxi3fXG9Gk4u7oy6BQC7"/>
+    <LineBreak nWidth="9600" Line="OK1uJ7sbwdEiReM2HOR1oePiLc5Q3xWD9UwBrIfbYDsoX3SbvggtxizXRiEWpxi3fXG9Gk4u7oy6BQC7"/>
+    <Text nLength="41" nType="PortionType::Lay" nHeight="200" nWidth="4920" Portion="I9mwKoZdVLumLGFEfm0wgfjC-YXLRP0jZsJNKt&quot; \"/>
+    <LineBreak nWidth="4920" Line="I9mwKoZdVLumLGFEfm0wgfjC-YXLRP0jZsJNKt&quot; \"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55d3373fe6b0" id="304" symbol="11SwPageFrame" prev="262" upper="0" lower="305">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="154382" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x55d336ce8300" id="305" symbol="11SwBodyFrame" upper="304" lower="309">
+   <infos>
+    <bounds left="8181" top="155516" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x55d337426640" id="309" symbol="11SwTextFrame" next="310" upper="305" txtNodeIndex="251" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="155516" width="9638" height="200" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="200"/>
+    </infos>
+&gt; http://localhost:5000/protected    <Text nLength="33" nType="PortionType::Para" nHeight="200" nWidth="3960" Portion="&gt; http://localhost:5000/protected"/>
+    <LineBreak nWidth="3960" Line="&gt; http://localhost:5000/protected"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337343fc0" id="310" symbol="11SwTextFrame" next="331" prev="309" upper="305" txtNodeIndex="252" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="155716" width="9638" height="370" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="200"/>
+    </infos>
+{&quot;logado&quot;:&quot;test&quot;}    <Text nLength="17" nType="PortionType::Para" nHeight="200" nWidth="2040" Portion="{&quot;logado&quot;:&quot;test&quot;}"/>
+    <LineBreak nWidth="2040" Line="{&quot;logado&quot;:&quot;test&quot;}"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ec2ee0" id="331" symbol="11SwTextFrame" next="313" prev="310" upper="305" txtNodeIndex="253" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="156086" width="9638" height="446" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="170" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ed3c20" id="313" symbol="11SwTextFrame" next="332" prev="331" upper="305" txtNodeIndex="254" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="156532" width="9638" height="1091" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="910"/>
+    </infos>
+Note que este esquema apenas diz se o usuário está autenticado. Se a rota exigir um nível de autorização diferente, então caberá ao backend decidir isso com base no “sub” do usuário! Eu não incluiria essa informação no token JWT, como alguns fazem (“nivel”: “admin”).    <Text nLength="84" nType="PortionType::Text" nHeight="276" nWidth="8083" Portion="Note que este esquema apenas diz se o usu&#xE1;rio est&#xE1; autenticado. Se a rota exigir um "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="276" nWidth="853" Portion="n&#xED;vel de "/>
+    <LineBreak nWidth="8936" Line="Note que este esquema apenas diz se o usu&#xE1;rio est&#xE1; autenticado. Se a rota exigir um n&#xED;vel de "/>
+    <Text nLength="22" nType="PortionType::Text" nHeight="276" nWidth="2235" Portion="autoriza&#xE7;&#xE3;o diferente,"/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="276" nWidth="1612" Portion=" ent&#xE3;o caber&#xE1; ao "/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="276" nWidth="827" Portion="backend"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="276" nWidth="2586" Portion=" decidir isso com base no &#x201C;"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="276" nWidth="360" Portion="sub"/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="276" nWidth="1986" Portion="&#x201D; do usu&#xE1;rio! Eu n&#xE3;o"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9606" Line="autoriza&#xE7;&#xE3;o diferente, ent&#xE3;o caber&#xE1; ao backend decidir isso com base no &#x201C;sub&#x201D; do usu&#xE1;rio! Eu n&#xE3;o "/>
+    <Text nLength="77" nType="PortionType::Lay" nHeight="276" nWidth="7712" Portion="incluiria essa informa&#xE7;&#xE3;o no token JWT, como alguns fazem (&#x201C;nivel&#x201D;: &#x201C;admin&#x201D;)."/>
+    <LineBreak nWidth="7712" Line="incluiria essa informa&#xE7;&#xE3;o no token JWT, como alguns fazem (&#x201C;nivel&#x201D;: &#x201C;admin&#x201D;)."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373a4220" id="332" symbol="11SwTextFrame" next="312" prev="313" upper="305" txtNodeIndex="255" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="157623" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33724e850" id="312" symbol="11SwTextFrame" next="314" prev="332" upper="305" txtNodeIndex="256" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="158080" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+Se tentarmos acessar depois que o token expirar, receberemos um erro:     <Text nLength="70" nType="PortionType::Para" nHeight="276" nWidth="6868" Portion="Se tentarmos acessar depois que o token expirar, receberemos um erro: "/>
+    <LineBreak nWidth="6868" Line="Se tentarmos acessar depois que o token expirar, receberemos um erro: "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e0e510" id="314" symbol="11SwTextFrame" next="318" prev="312" upper="305" txtNodeIndex="257" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="158537" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="200"/>
+    </infos>
+$ curl -i --header &quot;Content-Type: application/json&quot; \    <Text nLength="53" nType="PortionType::Para" nHeight="200" nWidth="6360" Portion="$ curl -i --header &quot;Content-Type: application/json&quot; \"/>
+    <LineBreak nWidth="6360" Line="$ curl -i --header &quot;Content-Type: application/json&quot; \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337253380" id="318" symbol="11SwTextFrame" next="330" prev="314" upper="305" txtNodeIndex="258" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="158918" width="9638" height="486" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="430"/>
+    </infos>
+&gt; --header &quot;Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjU    <Text nLength="2" nType="PortionType::Text" nHeight="200" nWidth="240" Portion="&gt; "/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="200" nWidth="3840" Portion="--header &quot;Authorization: Bearer "/>
+    <LineBreak nWidth="4080" Line="&gt; --header &quot;Authorization: Bearer "/>
+    <Text nLength="76" nType="PortionType::Lay" nHeight="200" nWidth="9120" Portion="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjU"/>
+    <LineBreak nWidth="9120" Line="eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYzOTc1MjU"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33740b5f0" id="330" symbol="11SwTextFrame" next="329" prev="318" upper="305" txtNodeIndex="259" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="159404" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+...    <Text nLength="3" nType="PortionType::Para" nHeight="200" nWidth="360" Portion="..."/>
+    <LineBreak nWidth="360" Line="..."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33733a9d0" id="329" symbol="11SwTextFrame" next="319" prev="330" upper="305" txtNodeIndex="260" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="159660" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+u2o2xcUYzAFL6FDQKcbN-_C36uXG4rcbKOlVINfD2ZhEk654&quot; \    <Text nLength="49" nType="PortionType::Text" nHeight="200" nWidth="5880" Portion="u2o2xcUYzAFL6FDQKcbN-_C36uXG4rcbKOlVINfD2ZhEk654&quot;"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="200" nWidth="240" Portion=" \"/>
+    <LineBreak nWidth="6120" Line="u2o2xcUYzAFL6FDQKcbN-_C36uXG4rcbKOlVINfD2ZhEk654&quot; \"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337220220" id="319" symbol="11SwTextFrame" next="320" prev="329" upper="305" txtNodeIndex="261" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="159916" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+&gt; http://localhost:5000/protected    <Text nLength="33" nType="PortionType::Para" nHeight="200" nWidth="3960" Portion="&gt; http://localhost:5000/protected"/>
+    <LineBreak nWidth="3960" Line="&gt; http://localhost:5000/protected"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337344380" id="320" symbol="11SwTextFrame" next="321" prev="319" upper="305" txtNodeIndex="262" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="160172" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+HTTP/1.0 401 UNAUTHORIZED    <Text nLength="25" nType="PortionType::Para" nHeight="200" nWidth="3000" Portion="HTTP/1.0 401 UNAUTHORIZED"/>
+    <LineBreak nWidth="3000" Line="HTTP/1.0 401 UNAUTHORIZED"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b0cee0" id="321" symbol="11SwTextFrame" next="322" prev="320" upper="305" txtNodeIndex="263" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="160428" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Type: application/json    <Text nLength="30" nType="PortionType::Para" nHeight="200" nWidth="3600" Portion="Content-Type: application/json"/>
+    <LineBreak nWidth="3600" Line="Content-Type: application/json"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336ed1360" id="322" symbol="11SwTextFrame" next="323" prev="321" upper="305" txtNodeIndex="264" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="160684" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Content-Length: 28    <Text nLength="18" nType="PortionType::Para" nHeight="200" nWidth="2160" Portion="Content-Length: 28"/>
+    <LineBreak nWidth="2160" Line="Content-Length: 28"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b9e440" id="323" symbol="11SwTextFrame" next="324" prev="322" upper="305" txtNodeIndex="265" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="160940" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Server: Werkzeug/2.0.2 Python/3.8.8    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <LineBreak nWidth="4200" Line="Server: Werkzeug/2.0.2 Python/3.8.8"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33751bbe0" id="324" symbol="11SwTextFrame" next="326" prev="323" upper="305" txtNodeIndex="266" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="161196" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+Date: Fri, 17 Dec 2021 14:51:23 GMT    <Text nLength="35" nType="PortionType::Para" nHeight="200" nWidth="4200" Portion="Date: Fri, 17 Dec 2021 14:51:23 GMT"/>
+    <LineBreak nWidth="4200" Line="Date: Fri, 17 Dec 2021 14:51:23 GMT"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33741c7b0" id="326" symbol="11SwTextFrame" next="325" prev="324" upper="305" txtNodeIndex="267" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="161452" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33751bd30" id="325" symbol="11SwTextFrame" next="203" prev="326" upper="305" txtNodeIndex="268" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="161708" width="9638" height="256" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="200"/>
+    </infos>
+{&quot;msg&quot;:&quot;Token has expired&quot;}    <Text nLength="27" nType="PortionType::Para" nHeight="200" nWidth="3240" Portion="{&quot;msg&quot;:&quot;Token has expired&quot;}"/>
+    <LineBreak nWidth="3240" Line="{&quot;msg&quot;:&quot;Token has expired&quot;}"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336b09720" id="203" symbol="11SwTextFrame" next="201" prev="325" upper="305" txtNodeIndex="269" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="161964" width="9638" height="332" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="56" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372be9f0" id="201" symbol="11SwTextFrame" next="202" prev="203" upper="305" txtNodeIndex="270" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="162296" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33752d150" id="202" symbol="11SwTextFrame" next="199" prev="201" upper="305" txtNodeIndex="271" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="162753" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d337467000" id="199" symbol="11SwTextFrame" next="182" prev="202" upper="305" txtNodeIndex="272" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="163210" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3372781b0" id="182" symbol="11SwTextFrame" next="179" prev="199" upper="305" txtNodeIndex="273" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="163667" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336e68870" id="179" symbol="11SwTextFrame" next="159" prev="182" upper="305" txtNodeIndex="274" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="164124" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3373b4530" id="159" symbol="11SwTextFrame" next="135" prev="179" upper="305" txtNodeIndex="275" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="164581" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336aae420" id="135" symbol="11SwTextFrame" next="129" prev="159" upper="305" txtNodeIndex="276" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="165038" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336c13120" id="129" symbol="11SwTextFrame" next="126" prev="135" upper="305" txtNodeIndex="277" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="165495" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d33729da00" id="126" symbol="11SwTextFrame" next="125" prev="129" upper="305" txtNodeIndex="278" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="165952" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336d20b20" id="125" symbol="11SwTextFrame" next="107" prev="126" upper="305" txtNodeIndex="279" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="166409" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d336edf540" id="107" symbol="11SwTextFrame" next="102" prev="125" upper="305" txtNodeIndex="280" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="166866" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d3366646d0" id="102" symbol="11SwTextFrame" prev="107" upper="305" txtNodeIndex="281" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="167323" width="9638" height="457" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>

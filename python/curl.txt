@@ -1,0 +1,11 @@
+curl -i --header "Content-Type: application/json" \
+  --request POST \
+  --data '{"username":"test","password":"test"}' \
+  http://localhost:5000/login
+
+
+curl -i http://localhost:5000/protected
+
+curl -i --header "Content-Type: application/json" \
+--header "Authorization: Bearer **COLE SEU TOKEN AQUI**" \
+http://localhost:5000/protected
