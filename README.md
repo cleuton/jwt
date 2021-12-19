@@ -13,6 +13,10 @@
 
 **Cleuton Sampaio, M.Sc.**
 
+# Vídeo no meu canal
+
+O [**vídeo deste tutorial**](https://youtu.be/iO9UAFt4ibs) está disponível no [**meu canal do Youtube**](http://youtube.com/c/CleutonSampaio).
+
 # Descrição
 
 Toda aplicação web que retorna recursos dinâmicos deveria se proteger contra acessos anônimos. Há dois motivos para isto: 
